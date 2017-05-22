@@ -1,0 +1,14 @@
+body {
+	background: url("../images/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+		color: #666;
+}
+form {
+  text-align: center;
+   margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 150px;
+}
